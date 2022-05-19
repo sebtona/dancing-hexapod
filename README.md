@@ -37,10 +37,10 @@ This was my final project in Principles of Robotics. I enabled a hexapod (six-le
 ## Installation
 1. Install the latest version of Arduino IDE on your machine.
 2. Fork this repo or download the `sebton_hexapod_final_project` folder. This folder comes with the SSC-32 library included.
-3. If for any reason the library does not work, you can download a C++ library for SSC-32 [here](https://github.com/RobotGrrl/Arduino-SSC32) and the SSC-32 Servo Sequencer Utility [here](http://www.lynxmotion.com/p-895-free-download-ssc-32-servo-sequencer-utility-created-using-flowbotics-studio.aspx).
+3. If for any reason the library does not work, you can download a C++ library for SSC-32 <a href="https://github.com/RobotGrrl/Arduino-SSC32" target="_blank">here</a> and the SSC-32 Servo Sequencer Utility <a href="http://www.lynxmotion.com/p-895-free-download-ssc-32-servo-sequencer-utility-created-using-flowbotics-studio.aspx" target="_blank">here</a>.
 4. Open the .ino file in the Arduino IDE. The SSC32 library files should automatically appear as tabs in your Arduino project.
 5. In the Arduino IDE, navigate to Tools -> Manage Libraries. Search for and install the latest versions of the Arduino libraries "arduinoFFT" by Enrique Condes and "Vector" by Peter Polidoro.
-6. Alternatively, you can download the arduinoFFT library [here](https://www.arduino.cc/reference/en/libraries/arduinofft/) and the Vector library [here](https://www.arduino.cc/reference/en/libraries/vector/). If you choose this option, place the library files in the same src folder as the .ino file.
+6. Alternatively, you can download the arduinoFFT library <a href="https://www.arduino.cc/reference/en/libraries/arduinofft/" target="_blank">here</a> and the Vector library <a href="https://www.arduino.cc/reference/en/libraries/vector/" target="_blank">here</a>. If you choose this option, place the library files in the same src folder as the .ino file.
 7. You are now ready to connect your Arduino to your machine, compile and upload the code.
 
 ## Deliverables
